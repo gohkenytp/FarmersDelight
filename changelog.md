@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.0
+
+### Additions
+- The Cooking Pot now has its own **Recipe Book**!
+  - Opening the GUI will reveal the familiar green book button. Press it to see your current cooking recipes;
+  - Recipes are unlocked in the same fashion as vanilla: by having the key item, or cooking the recipe from memory once;
+
 ## 1.1.2
 
 ### Additions
